@@ -1,1 +1,2 @@
 Payment page created
+Payment method added
