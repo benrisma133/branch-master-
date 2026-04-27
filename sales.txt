@@ -1,1 +1,2 @@
 Sales system initialized
+Sales order added
