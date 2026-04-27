@@ -1,0 +1,8 @@
+Today I learned how to use Git and GitHub
+I learned how to create branches and merge them
+I learned how to create branches inside branches
+I learned how to read the git tree
+I learned how to use Oh My Posh and customize my terminal
+I learned how to use PowerShell commands
+I practiced with BankSystem and PosSystem repos
+I am ready to push to GitHub!
