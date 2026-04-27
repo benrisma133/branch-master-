@@ -1,0 +1,2 @@
+Inventory report initialized
+Monthly report added
