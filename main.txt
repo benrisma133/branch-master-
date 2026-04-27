@@ -2,3 +2,4 @@ Pos Syetem started
 Added product module
 Added Category module
 Model module added
+Sales module added
