@@ -1,0 +1,4 @@
+Discount system initialized
+Percentage discount added
+Fixed amount discount added
+Seasonal discount added
