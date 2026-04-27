@@ -1,0 +1,2 @@
+Sales report initialized
+Daily sales report added
