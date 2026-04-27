@@ -1,1 +1,2 @@
 Tax system initialized
+Tax calculation added
