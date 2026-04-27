@@ -1,3 +1,4 @@
 Inventory system initialized
 Stock tracking added
 Low stock alert added
+Inventory export added
